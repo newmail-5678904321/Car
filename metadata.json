@@ -1,0 +1,6 @@
+{
+  "name": "Aether Automotive",
+  "description": "World-class digital automotive experience platform to discover, experience in 3D, inspect engineering, explore interiors, configure, and compare luxury automobiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
